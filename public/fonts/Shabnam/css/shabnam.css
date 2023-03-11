@@ -1,0 +1,39 @@
+@font-face {
+  font-family: Shabnam;
+  font-style: normal;
+  font-weight: normal;
+  src: url('../Shabnam-Regular/Shabnam-FD.woff2') format('woff2'),
+    url('../Shabnam-Regular/Shabnam-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: Shabnam;
+  font-style: normal;
+  font-weight: bold;
+  src: url('../Shabnam-Bold/Shabnam-Bold.woff2') format('woff2'),
+    url('../Shabnam-Bold/Shabnam-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: Shabnam;
+  font-style: normal;
+  font-weight: 500;
+  src: url('../Shabnam-Medium/Shabnam-Medium.woff2') format('woff2'),
+    url('../Shabnam-Medium/Shabnam-Medium.woff') format('woff');
+}
+
+@font-face {
+  font-family: Shabnam;
+  font-style: normal;
+  font-weight: 300;
+  src: url('../Shabnam-Light/Shabnam-Light.woff2') format('woff2'),
+    url('../Shabnam-Light/Shabnam-Light.woff') format('woff');
+}
+
+@font-face {
+  font-family: Shabnam;
+  font-style: normal;
+  font-weight: 200;
+  src: url('../Shabnam-Thin/Shabnam-Thin.woff2') format('woff2'),
+    url('../Shabnam-Thin/Shabnam-Thin.woff') format('woff');
+}
